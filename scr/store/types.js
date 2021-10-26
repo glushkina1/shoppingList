@@ -1,0 +1,4 @@
+
+
+export const SAVE_PRODUCT = 'SAVE_PRODUCT';
+export const RESET_PRODUCTS = 'RESET_PRODUCTS'
